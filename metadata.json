@@ -1,0 +1,9 @@
+{
+  "name": "SwiftRun 跑腿",
+  "description": "An efficient on-demand delivery platform connecting users, riders, and merchants with a complete verification loop.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
